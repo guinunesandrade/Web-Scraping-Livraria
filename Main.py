@@ -90,5 +90,5 @@ SELECT Book, Price, Stars, Stock, Category, Day
 FROM Books_old;''')
 cur.execute('''DROP TABLE Books_old''')
 conn.commit()
-cur.close()
+conn.close()
 
