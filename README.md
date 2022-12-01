@@ -2,7 +2,7 @@
 
 <h2 align="center"> Web Scraping de uma livraria fictícia e análise dos dados utilizando Python e SQL </h2>
 
-<h3> :arrow_forward: Status do Projeto: </h3> :white_check_mark: Concluído :white_check_mark: 
+<h3> :arrow_forward: Status do Projeto: </h3> :warning: Em execução :warning: 
 
 <h3> :hammer: Tecnologias do Projeto: </h3>
 
