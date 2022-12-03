@@ -24,7 +24,7 @@
 - `sqlite3`
 - `pandas`
 - `urllib.request`
-- `bs4`
+- `BeautifulSoup`
 - `ssl`
 - `openpyxl`
 - `os`
