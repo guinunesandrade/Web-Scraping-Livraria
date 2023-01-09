@@ -1,6 +1,6 @@
 <h1 align="center"> Livraria </h1>
 
-<h2 align="center"> Automatização de ETL de uma livraria fictícia e análise dos dados utilizando Python, SQL e Excel </h2>
+<h2 align="center"> ETL de uma livraria fictícia e análise dos dados utilizando Python, SQL e Excel </h2>
 
 <h3> :arrow_forward: Status do Projeto: </h3> :white_check_mark: Concluído :white_check_mark: 
 
